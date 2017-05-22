@@ -25,13 +25,13 @@ body {
   min-height: 1000px;
   background-image: url('zen.png');
   background-repeat: no-repeat;
-  background-attachment: local;
+  background-attachment: fixed;
   background-size: cover;
 }
 
 #interview {
   background-image: url('larrypage.jpg');
-  background-attachment: fixed;
+  background-attachment: local;
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 2px;
