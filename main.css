@@ -29,6 +29,13 @@ body {
   background-size: cover;
 }
 
+#interview {
+  background-image: url('larrypage.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 2px;
+}
+
 #content {
   margin: auto;
   position: absolute;
