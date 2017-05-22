@@ -31,6 +31,7 @@ body {
 
 #interview {
   background-image: url('larrypage.jpg');
+  background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 2px;
