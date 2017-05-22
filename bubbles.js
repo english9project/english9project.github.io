@@ -312,11 +312,3 @@ var blue = [196, 77, 55];
 var purple = [280, 50, 60];
 
 setTimeout(updateCanvasDimensions, 30);
-window.setInterval(function(){
-    canvas.attr({
-        height: 900,
-        width: ($(document).width()/1300)*1300
-    });
-    canvasWidth = canvas.width();
-    canvasHeight = canvas.height();
-}, 15);
